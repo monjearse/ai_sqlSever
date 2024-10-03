@@ -2,8 +2,8 @@
 AI and SQL Server Pratical example
 
 
-##Summary of Requirements
-  SQL Server 2017 or later with Machine Learning Services installed.
+## Summary of Requirements
+  ### SQL Server 2017 or later with Machine Learning Services installed.
   Python or R language environment set up in SQL Server.
   External script execution enabled.
   Adequate hardware resources (RAM, CPU).
