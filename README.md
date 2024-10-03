@@ -1,5 +1,5 @@
 # ai_sqlSever
-AI and SQL Server Pratical example
+##AI and SQL Server Pratical example
 Case Study: ML Student DropOut Predictions
 
 
